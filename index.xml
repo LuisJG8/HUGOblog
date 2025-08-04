@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/posts/hello-world/</link>
+      <link>//localhost:1313/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/hello-world/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;title: My new one&#xA;date: 2025-08-03&#xA;draft: false&#xA;tags:&#xA;- blog&#xA;- idk&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;hey look: !&lt;img src=&#34;/images/Pasted%20image%2020250804070712.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;title: My new one&#xA;date: 2025-08-03&#xA;draft: false&#xA;tags:&#xA;- blog&#xA;- idk&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;hey look: !&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020250804070712.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>/posts/hiii/</link>
+      <link>//localhost:1313/posts/hiii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/hiii/</guid>
+      <guid>//localhost:1313/posts/hiii/</guid>
       <description>&lt;p&gt;How are you&lt;/p&gt;&#xA;&lt;p&gt;fine thx&lt;/p&gt;</description>
     </item>
   </channel>
