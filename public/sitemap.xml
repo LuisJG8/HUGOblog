@@ -2,16 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luisjg8.github.io/posts/hello-world/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>https://luisjg8.github.io/posts/hiii/</loc>
+    <loc>//localhost:1313/posts/hello-world/</loc>
   </url><url>
-    <loc>https://luisjg8.github.io/categories/</loc>
+    <loc>//localhost:1313/posts/hey-man/</loc>
   </url><url>
-    <loc>https://luisjg8.github.io/posts/</loc>
+    <loc>//localhost:1313/posts/hiii/</loc>
   </url><url>
-    <loc>https://luisjg8.github.io/tags/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://luisjg8.github.io/</loc>
+    <loc>//localhost:1313/posts/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
